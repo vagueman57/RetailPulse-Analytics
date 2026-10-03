@@ -21,6 +21,31 @@ The project transforms raw Excel data into an interactive dashboard using **Powe
 
 ---
 
+
+## 📊 Dashboard Preview
+
+### Overview
+
+![RetailPulse Dashboard](Screenshots/Screenshot%202026-10-03%20213925.png)
+
+### Top/Bottom 5 Analysis
+
+![Product Analysis](Screenshots/Screenshot%202026-10-03%20213944.png)
+
+### Comparison Sales/Profit/Quantity
+
+![Geographic Analysis](Screenshots/Screenshot%202026-10-03%20214003.png)
+
+### Edit Interaction 
+
+![Dashboard View 4](Screenshots/Screenshot%202026-10-03%20214010.png)
+
+### Table Visual
+
+![Dashboard View 5](Screenshots/Screenshot%202026-10-03%20214017.png)
+
+---
+
 ## 🎯 Objectives
 
 - Analyze overall **sales, profit, and quantity performance**
